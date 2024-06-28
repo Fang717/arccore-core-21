@@ -12,4 +12,4 @@ based on the open industry standard Autosar and
 is provided in source code for full flexibility and
 transparency.
 
-Arccore Core 21.0.0.0 and examples.
+Arccore Core 21.0.0 and examples.
