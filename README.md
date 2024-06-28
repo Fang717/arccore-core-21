@@ -1,7 +1,6 @@
 Arctic Core - The open source AUTOSAR embedded platform
 
-Version 21.0.0
 
 GNU General Public License version 2
 
-Core 21.0.0 and examples.
+Core 21.0.0.0 and examples.
