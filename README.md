@@ -1,4 +1,4 @@
-The Arctic Core / arccore / is the open source AUTOSAR embedded platform includes a
+The Arctic Core a.k.a. arccore  is the open source AUTOSAR embedded platform includes a
 complete set of features needed when building
 an Electronic Control Unit for the automotive
 market. The Arctic Core embedded platform is
